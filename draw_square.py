@@ -3,3 +3,5 @@ for i in range(4):
   
  #Prints a square with a=4.
  
+for i in range(4):
+  print("*"*i)
